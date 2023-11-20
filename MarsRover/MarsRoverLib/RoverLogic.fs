@@ -4,8 +4,7 @@ open Library
 
 (*
 The rover is in a grid represented by X and Y coordinates, where (0,0) is the top left corner.
-
-We define the grid size as literal (static constant) values.
+X represents a Cell with an ostacle on it, while O represent a Cell with no obstacle.
 *)
 
 type Cell = O | X
