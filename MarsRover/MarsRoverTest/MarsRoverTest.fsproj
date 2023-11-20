@@ -28,6 +28,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MarsRoverLib\MarsRoverLib.fsproj" />
+    <ProjectReference Include="..\MarsRoverShell\MarsRoverShell.fsproj" />
   </ItemGroup>
 
 </Project>
