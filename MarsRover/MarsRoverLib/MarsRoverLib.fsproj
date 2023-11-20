@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="README.md" />
     <Compile Include="Library.fs" />
     <Compile Include="RoverLogic.fs" />
     <Compile Include="RoverAgent.fs" />
